@@ -1,7 +1,4 @@
 first message from client
 second message from client
-<<<<<<< HEAD
 thid message by emp 1
-=======
 edit made by emp2
->>>>>>> 9724cc5a40e95c5e208fc25943f0586242127b70
